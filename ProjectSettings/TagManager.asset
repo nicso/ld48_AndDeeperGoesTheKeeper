@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - lights
+  - badguy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - invisible
+  - notOnMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 4191436109
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: plants
+    uniqueID: 2484086065
+    locked: 0
+  - name: particles
+    uniqueID: 513061719
+    locked: 0
+  - name: player
+    uniqueID: 670262711
+    locked: 0
+  - name: foreground
+    uniqueID: 4181645315
+    locked: 0
+  - name: 
+    uniqueID: 2944643631
+    locked: 0
