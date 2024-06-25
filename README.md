@@ -4,6 +4,8 @@ A game made for the Ludun dare game jam in 48h
 ## PITCH
 It's a simple exploration game in wich you will have to throw lights to find your way through a short underwater level
 
+![screenshot](https://img.itch.zone/aW1hZ2UvMTAxMzc4Ny81Nzc0MTA2LmpwZw==/original/WMir4r.jpg)
+
 ## CONTROLS
 options :
  press f1 to switch to low quality.
